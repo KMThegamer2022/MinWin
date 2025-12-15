@@ -6,8 +6,6 @@ this is in a very early beta so dont expect it to be perfect. there is still alo
 
 
 # Features..
-
-# Windows 11
 Added..
 + Custom Clean Taskbar (StartAllBack)
 + Automatic Free Activation
