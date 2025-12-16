@@ -13,7 +13,7 @@ Added..
 Removed
 - Bloatware
 - Windows Junk
-- TPM 2.0, RAM and CPU Requirements
+- TPM 2.0, RAM and CPU Requirements (Coming In V1.02)
 - Edge (Of Course)
 
 More Will Be Added In The Future!
